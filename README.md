@@ -1,16 +1,10 @@
 # module10_livetest
 
-A new Flutter project.
 
-## Getting Started
+Create a news feed that adjusts its layout based on the device's orientation. The feed should display multiple news articles thumbnail images in a list format.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img src="s/1.png" alt="alt text" width="270" height="570"> <img src="s/2.png" alt="alt text" width="270" height="570">
