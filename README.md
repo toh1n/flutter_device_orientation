@@ -7,4 +7,4 @@ Create a news feed that adjusts its layout based on the device's orientation. Th
 
 
 
-<img src="s/1.png" alt="alt text" width="270" height="570"> <img src="s/2.png" alt="alt text" width="270" height="570">
+<img src="s/1.png" alt="alt text" width="270" height="570"> <img src="s/2.png" alt="alt text" width="570" height="270">
